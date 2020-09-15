@@ -1,0 +1,6 @@
+variable elKlek = 0;
+while(true){
+  output("espow pow pow pow");
+  elKlek ++;
+}
+output(elKlek);
